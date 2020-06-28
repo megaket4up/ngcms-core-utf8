@@ -8,7 +8,7 @@
 				
 				<p></p>
 				<fieldset>
-					<legend>—писок выполненных действий:</legend>
+					<legend>Cписок выполненных действий:</legend>
 					<div class="form-group">
 						<div class="col-sm-12">{actions}<!--/div>
 					</div>
